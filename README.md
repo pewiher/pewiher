@@ -9,10 +9,14 @@ I love technology, development, challenges, the more difficult the better, if yo
 - Devops
 - Mobile Engineer
 
- **I am open to**:
+**I am open to**:
 
 - any collobration work,
 - mobile development (Flutter, iOS, Kotlin) projects(development or research),
+
+** personal brand
+
+- [Codesfirst](https://www.codesfirst.com) ![CodesFirst](https://img.shields.io/badge/CodesFirst-CodesFirst)
 
 ## Skills:
 
@@ -25,7 +29,7 @@ I love technology, development, challenges, the more difficult the better, if yo
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-### Frameworks
+#### Frameworks:
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
