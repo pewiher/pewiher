@@ -14,7 +14,7 @@ I love technology, development, challenges, the more difficult the better, if yo
 - any collobration work,
 - mobile development (Flutter, iOS, Kotlin) projects(development or research),
 
-** personal brand
+**Personal brand**:
 
 - [Codesfirst](https://www.codesfirst.com) ![CodesFirst](https://img.shields.io/badge/CodesFirst-CodesFirst)
 
